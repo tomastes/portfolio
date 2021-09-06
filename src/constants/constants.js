@@ -10,6 +10,16 @@ export const projects = [
     id: 0,
   },
   {
+    title: "airbnb clone",
+    description:
+      "Using React, next.js(static &server-side-rendering), using tailwind built on the 5-days-coding challenge presented by papafam.  ",
+    image: "/images/airbnb.png",
+    tags: ["React", "next", "tailwindcss"],
+    source: "https://github.com/tomastes/airbnb-clone-papafam",
+    visit: "https://airbnb-clone-papafam-jk2xaqskm-tomastes.vercel.app/",
+    id: 6,
+  },
+  {
     title: "Gmail-clone",
     description:
       "gmail clone build with react-redux and firebase as backend with google authentication",
